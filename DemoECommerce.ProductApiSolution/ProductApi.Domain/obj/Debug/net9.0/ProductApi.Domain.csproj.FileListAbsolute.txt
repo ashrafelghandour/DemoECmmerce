@@ -1,0 +1,12 @@
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net9.0\ProductApi.Domain.deps.json
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net9.0\ProductApi.Domain.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net9.0\ProductApi.Domain.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.AssemblyInfoInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.AssemblyInfo.cs
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.sourcelink.json
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\refint\ProductApi.Domain.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ref\ProductApi.Domain.dll
