@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LHk5hE9DBBw=",
+  "dgSpecHash": "/mVg+9aPI4I=",
   "success": true,
   "projectFilePath": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,9 @@
     "C:\\Users\\COMPULAB\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\COMPULAB\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\COMPULAB\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
+    "C:\\Users\\COMPULAB\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\COMPULAB\\.nuget\\packages\\serilog.sinks.debug\\3.0.0\\serilog.sinks.debug.3.0.0.nupkg.sha512",
+    "C:\\Users\\COMPULAB\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
     "C:\\Users\\COMPULAB\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\COMPULAB\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\COMPULAB\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",

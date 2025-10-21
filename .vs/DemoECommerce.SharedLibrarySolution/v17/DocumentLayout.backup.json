@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\DemoECommerce.SharedLibrarySolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07DA90-C5E5-4AB4-8833-DB41D8AA4DE1}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|e:\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0D07DA90-C5E5-4AB4-8833-DB41D8AA4DE1}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\ecommerce.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07DA90-C5E5-4AB4-8833-DB41D8AA4DE1}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|e:\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07DA90-C5E5-4AB4-8833-DB41D8AA4DE1}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07DA90-C5E5-4AB4-8833-DB41D8AA4DE1}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|e:\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07DA90-C5E5-4AB4-8833-DB41D8AA4DE1}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,45 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListenToOnlyApiGateway.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\MiddleWare\\ListenToOnlyApiGateway.cs",
-              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\MiddleWare\\ListenToOnlyApiGateway.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\MiddleWare\\ListenToOnlyApiGateway.cs",
-              "RelativeToolTip": "eCommerce.SharedLibrary\\MiddleWare\\ListenToOnlyApiGateway.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:26:41.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GlobalException.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\MiddleWare\\GlobalException.cs",
-              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\MiddleWare\\GlobalException.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\MiddleWare\\GlobalException.cs",
-              "RelativeToolTip": "eCommerce.SharedLibrary\\MiddleWare\\GlobalException.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:51:57.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "eCommerce.SharedLibrary",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
-              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
-              "RelativeToolTip": "eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T13:51:56.054Z",
-              "EditorCaption": ""
             }
           ]
         }
