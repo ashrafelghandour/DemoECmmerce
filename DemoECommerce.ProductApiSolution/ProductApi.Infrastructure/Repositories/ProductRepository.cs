@@ -22,7 +22,7 @@ namespace ProductApi.Infrastructure.Repositories
             {
                 //check if the product already exist
 
-                if (entity is not null) 
+                if (entity is  null) 
                     return new Response(false, "Error new product is null");
 
                 var getprocut = await GetByAsync(p => p.Name!.Equals(entity!.Name));
@@ -55,7 +55,7 @@ namespace ProductApi.Infrastructure.Repositories
             try
             {
 
-                var product = await db.products.SingleOrDefaultAsync(p=> p.Name == entity.Name);
+                var product = await db.products.FindAsync(entity);
 
                 if (product is null)
                     return new Response(false, $"this product is not Exesit{entity.Name}");

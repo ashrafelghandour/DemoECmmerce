@@ -14,16 +14,17 @@ namespace eCommerce.SharedLibrary.DependencyInjection
             ,IConfiguration configuration ,string fileName) where TContext : DbContext
         {
 
+            // 1) Add DbContext فقط
             services.AddDbContext<TContext>(options =>
             {
-                // Add Datase and connections
-                options.UseSqlServer(configuration.GetConnectionString("eCommerceConnection"), sqlserveroption =>
-                sqlserveroption.EnableRetryOnFailure());
+                options.UseSqlServer(
+                    configuration.GetConnectionString("eCommerceConnection"),
+                    sqlserveroption => sqlserveroption.EnableRetryOnFailure());
+            });
 
+            // add srial logger
 
-                // add srial logger
-
-                Log.Logger = new LoggerConfiguration()
+            Log.Logger = new LoggerConfiguration()
               .MinimumLevel.Information()
               .WriteTo.Debug()
               .WriteTo.Console()
@@ -36,14 +37,14 @@ namespace eCommerce.SharedLibrary.DependencyInjection
 
                 JWTAuthScheme.AddJWTAuthenticationScheme(services, configuration);
 
-            });
+            
             return services;
         }
 
         public static IApplicationBuilder UseSharedPolicies(this IApplicationBuilder application)
         {
             application.UseMiddleware<GlobalException>();
-            application.UseMiddleware<ListenToOnlyApiGateway>();
+           // application.UseMiddleware<ListenToOnlyApiGateway>();
             return application;
         }
         

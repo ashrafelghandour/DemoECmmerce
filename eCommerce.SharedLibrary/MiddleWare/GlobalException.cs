@@ -14,7 +14,7 @@ namespace eCommerce.SharedLibrary.MiddleWare
 {
     public class GlobalException(RequestDelegate next)
     {
-        public async Task InvokeAsyns(HttpContext context)
+        public async Task InvokeAsync(HttpContext context)
         {
             //Declare Defulat Varibales
             string message = "sorry , intenal server error occurred. Kindly try agin";

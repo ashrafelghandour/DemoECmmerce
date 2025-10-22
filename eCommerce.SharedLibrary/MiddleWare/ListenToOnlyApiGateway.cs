@@ -4,7 +4,7 @@ namespace eCommerce.SharedLibrary.MiddleWare
 {
     public class ListenToOnlyApiGateway(RequestDelegate next)
     {
-       public async Task InvokeAsynk(HttpContext context)
+       public async Task InvokeAsync(HttpContext context)
         {
 
             var signedHeader = context.Request.Headers["Api-Gateway"];

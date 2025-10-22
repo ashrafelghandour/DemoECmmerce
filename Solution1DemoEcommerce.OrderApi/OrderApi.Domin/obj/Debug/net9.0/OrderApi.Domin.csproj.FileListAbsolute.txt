@@ -1,0 +1,12 @@
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\bin\Debug\net9.0\OrderApi.Domin.deps.json
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\bin\Debug\net9.0\OrderApi.Domin.dll
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\bin\Debug\net9.0\OrderApi.Domin.pdb
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.AssemblyInfoInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.AssemblyInfo.cs
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.csproj.CoreCompileInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.sourcelink.json
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.dll
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\refint\OrderApi.Domin.dll
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\OrderApi.Domin.pdb
+E:\DemoECommerce.SharedLibrarySolution\Solution1DemoEcommerce.OrderApi\OrderApi.Domin\obj\Debug\net9.0\ref\OrderApi.Domin.dll

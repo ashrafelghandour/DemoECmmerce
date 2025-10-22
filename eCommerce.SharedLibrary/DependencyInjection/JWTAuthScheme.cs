@@ -9,7 +9,7 @@ public static class JWTAuthScheme
 {
     public static IServiceCollection AddJWTAuthenticationScheme(this IServiceCollection services, IConfiguration configuration)
     {
-        var myjwtoptions = configuration.GetSection("Jwt").Get<AuthJWTBerrer>();
+        var myjwtoptions = configuration.GetSection("Authentication").Get<AuthJWTBerrer>();
 
         services.AddAuthentication().AddJwtBearer(options =>
         {
@@ -18,7 +18,7 @@ public static class JWTAuthScheme
             {
 
                 ValidateIssuer = true,
-                ValidIssuer = myjwtoptions.Issuer,
+                ValidIssuer = myjwtoptions!.Issuer,
                 ValidateAudience = true,
                 ValidAudience = myjwtoptions.Audience,
                 ValidateIssuerSigningKey = true,

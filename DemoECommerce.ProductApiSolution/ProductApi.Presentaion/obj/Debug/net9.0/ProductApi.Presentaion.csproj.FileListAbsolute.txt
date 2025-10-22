@@ -176,3 +176,6 @@ E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductA
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\ProductApi.Domain.pdb
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\ProductApiApplication.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
