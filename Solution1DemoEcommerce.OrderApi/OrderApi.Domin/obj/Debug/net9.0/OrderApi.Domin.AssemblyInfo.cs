@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderApi.Domin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8e38c0bb77f3a272807ffc2efef022c7817212f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c399e5dc329ae9ce87400ae477b708b960e91fce")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderApi.Domin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderApi.Domin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

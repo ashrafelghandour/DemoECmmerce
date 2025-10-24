@@ -41,6 +41,8 @@ namespace eCommerce.SharedLibrary.DependencyInjection
             return services;
         }
 
+        // add middleware to api
+
         public static IApplicationBuilder UseSharedPolicies(this IApplicationBuilder application)
         {
             application.UseMiddleware<GlobalException>();
