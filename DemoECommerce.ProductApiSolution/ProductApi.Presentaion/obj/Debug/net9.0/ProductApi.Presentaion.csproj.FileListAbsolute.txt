@@ -26,7 +26,6 @@ E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductA
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ProductApi.Presentaion.props
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ProductApi.Presentaion.props
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\staticwebassets.pack.json
-E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\ProductA.3AA5D0EC.Up2Date
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\ProductApi.Presentaion.dll
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\refint\ProductApi.Presentaion.dll
@@ -179,3 +178,4 @@ E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductA
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoECommerce.ProductApiSolution\ProductApi.Presentaion\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

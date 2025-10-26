@@ -36,6 +36,7 @@ namespace ProductApi.Presentaion.Controllers
 
                  //conver form entity to Dto ant return
                 var pro = ProductConversion.FromEintity(productDTO, null).Item1;
+              
                 return pro is null ? NotFound($"not found product with id {id}") : Ok(pro); 
         }
 

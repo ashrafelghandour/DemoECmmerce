@@ -1,0 +1,12 @@
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net9.0\AuthenticationApi.Domain.deps.json
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net9.0\AuthenticationApi.Domain.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net9.0\AuthenticationApi.Domain.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.AssemblyInfoInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.AssemblyInfo.cs
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.csproj.CoreCompileInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.sourcelink.json
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\refint\AuthenticationApi.Domain.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\AuthenticationApi.Domain.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net9.0\ref\AuthenticationApi.Domain.dll

@@ -1,0 +1,16 @@
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.AssemblyInfo.cs
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.sourcelink.json
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Application.deps.json
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Application.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Application.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\Authenti.F26204DC.Up2Date
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\refint\AuthenticationApi.Application.dll
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.pdb
+E:\DemoECommerce.SharedLibrarySolution\DemoEcommerce.AthuenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\ref\AuthenticationApi.Application.dll

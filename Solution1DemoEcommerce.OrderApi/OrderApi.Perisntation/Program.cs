@@ -1,16 +1,19 @@
+using OrderApi.Infrastructure.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+builder.Services.AddInfastructureService(builder.Configuration);
 
 builder.Services.AddControllers();
 
 builder.Services.AddSwaggerGen();
-//builder.Services.AddInfrastuctuerService(builder.Configuration);
+// Add services to the container.
+
 
 
 var app = builder.Build();
 
-//app.UseInfrastructurePolicy();
+ app.UseInfastructurePolicy();
 
 
 app.UseSwagger();

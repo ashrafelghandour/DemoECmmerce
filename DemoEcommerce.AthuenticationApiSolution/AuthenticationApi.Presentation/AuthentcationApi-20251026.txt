@@ -1,0 +1,12 @@
+2025-10-26 15:44:28.154 +03:00 [INF] Invalid object name 'users'.
+2025-10-26 15:44:28.208 +03:00 [WRN] Invalid object name 'users'.
+2025-10-26 15:44:28.533 +03:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 15:44:28.536 +03:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 15:45:05.915 +03:00 [INF] Invalid object name 'users'.
+2025-10-26 15:45:06.589 +03:00 [WRN] Invalid object name 'users'.
+2025-10-26 15:45:13.068 +03:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 15:45:13.071 +03:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 20:47:53.597 +03:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 20:47:53.648 +03:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 20:49:05.756 +03:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-10-26 20:49:05.912 +03:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
