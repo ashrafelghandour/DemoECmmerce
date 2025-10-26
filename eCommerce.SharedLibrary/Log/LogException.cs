@@ -13,9 +13,9 @@ public static class LogException
         LogToDebugger(ex.Message);
 
     }
-        private static void LogToFile(string Message) => Log.Information(Message);
-    private static void LogToConsole(string Message) => Log.Warning(Message);
-    private static void LogToDebugger(string Message) => Log.Debug(Message);
+        public static void LogToFile(string Message) => Log.Information(Message);
+    public static void LogToConsole(string Message) => Log.Warning(Message);
+    public static void LogToDebugger(string Message) => Log.Debug(Message);
 
 
 

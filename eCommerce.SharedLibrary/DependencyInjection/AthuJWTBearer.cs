@@ -6,7 +6,7 @@ using Microsoft.Extensions.Options;
 
 namespace eCommerce.SharedLibrary.DependencyInjection;
 public class AuthJWTBerrer  
-    {
+{
 
 
 
@@ -16,4 +16,4 @@ public class AuthJWTBerrer
         public string SigningKey { get; set; }
 
 
-    };
+};
