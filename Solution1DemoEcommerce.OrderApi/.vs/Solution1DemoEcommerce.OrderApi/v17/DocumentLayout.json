@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.perisntation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|solutionrelative:orderapi.perisntation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.perisntation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|solutionrelative:orderapi.perisntation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC9DDC81-24D5-4529-A035-250678C737A4}|OrderApi.Application\\OrderApi.Application.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.application\\serveces\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC9DDC81-24D5-4529-A035-250678C737A4}|OrderApi.Application\\OrderApi.Application.csproj|solutionrelative:orderapi.application\\serveces\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{82683B28-8842-4830-B8A3-43D29809F0D7}|OrderApi.Infastructure\\OrderApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.infastructure\\orderapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{82683B28-8842-4830-B8A3-43D29809F0D7}|OrderApi.Infastructure\\OrderApi.Infrastructure.csproj|solutionrelative:orderapi.infastructure\\orderapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.perisntation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|solutionrelative:orderapi.perisntation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.perisntation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9F8C3F74-B032-452C-A222-36FFF0EE66EC}|OrderApi.Perisntation\\OrderApi.Perisntation.csproj|solutionrelative:orderapi.perisntation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82683B28-8842-4830-B8A3-43D29809F0D7}|OrderApi.Infastructure\\OrderApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\solution1demoecommerce.orderapi\\orderapi.infastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +74,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderApi.Infrastructure",
+              "DocumentIndex": 7,
+              "Title": "OrderApi.Infrastructure.csproj",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj",
               "RelativeDocumentMoniker": "OrderApi.Infastructure\\OrderApi.Infrastructure.csproj",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj",
               "RelativeToolTip": "OrderApi.Infastructure\\OrderApi.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T18:40:49.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T18:40:49.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ServiceContanier.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\DependencyInjection\\ServiceContanier.cs",
               "RelativeDocumentMoniker": "OrderApi.Infastructure\\DependencyInjection\\ServiceContanier.cs",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "OrderApi.Infastructure\\DependencyInjection\\ServiceContanier.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:40:17.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T18:40:17.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\DependencyIngection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "OrderApi.Application\\DependencyIngection\\ServiceContainer.cs",
@@ -108,18 +106,17 @@
               "RelativeToolTip": "OrderApi.Application\\DependencyIngection\\ServiceContainer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:07:28.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T18:07:28.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OrderService.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\Serveces\\OrderService.cs",
               "RelativeDocumentMoniker": "OrderApi.Application\\Serveces\\OrderService.cs",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\Serveces\\OrderService.cs",
               "RelativeToolTip": "OrderApi.Application\\Serveces\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T18:04:09.794Z",
               "EditorCaption": ""
@@ -134,12 +131,11 @@
               "RelativeToolTip": "OrderApi.Application\\Interfaces\\IOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T18:03:38.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T18:03:38.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\appsettings.json",
               "RelativeDocumentMoniker": "OrderApi.Perisntation\\appsettings.json",
@@ -147,31 +143,30 @@
               "RelativeToolTip": "OrderApi.Perisntation\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-26T10:39:14.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T10:39:14.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OrderApi.Perisntation\\Properties\\launchSettings.json",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\Properties\\launchSettings.json",
               "RelativeToolTip": "OrderApi.Perisntation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-26T10:39:11.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "OrderApi.Perisntation\\Controllers\\OrdersController.cs",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "OrderApi.Perisntation\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwHIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T21:13:35.493Z",
               "EditorCaption": ""
@@ -186,12 +181,11 @@
               "RelativeToolTip": "OrderApi.Infastructure\\Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T21:13:05.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T21:13:05.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppUserDTO.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\DTO\\AppUserDTO.cs",
               "RelativeDocumentMoniker": "OrderApi.Application\\DTO\\AppUserDTO.cs",
@@ -199,8 +193,7 @@
               "RelativeToolTip": "OrderApi.Application\\DTO\\AppUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T20:18:09.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T20:18:09.951Z"
             },
             {
               "$type": "Document",

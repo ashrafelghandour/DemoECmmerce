@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -19,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0208204-48F9-4CA3-8DA7-0A72CA59B6A1}|AuthenticationApi.Infastruatuer\\AuthenticationApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.infastruatuer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0208204-48F9-4CA3-8DA7-0A72CA59B6A1}|AuthenticationApi.Infastruatuer\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infastruatuer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Infastruatuer\\Data\\Migrations\\20251026174621_addAuthonticationselution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthenticationApi.Infastruatuer\\Data\\Migrations\\20251026174621_addAuthonticationselution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0208204-48F9-4CA3-8DA7-0A72CA59B6A1}|AuthenticationApi.Infastruatuer\\AuthenticationApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.infastruatuer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0208204-48F9-4CA3-8DA7-0A72CA59B6A1}|AuthenticationApi.Infastruatuer\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infastruatuer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.presentation\\authenticationapi.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.presentation\\authenticationapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{69F50C75-F74F-4F0E-A781-AD7396E9DAD5}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\authenticationapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0208204-48F9-4CA3-8DA7-0A72CA59B6A1}|AuthenticationApi.Infastruatuer\\AuthenticationApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.athuenticationapisolution\\authenticationapi.infastruatuer\\data\\migrations\\20251026174621_addauthonticationselution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0208204-48F9-4CA3-8DA7-0A72CA59B6A1}|AuthenticationApi.Infastruatuer\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infastruatuer\\data\\migrations\\20251026174621_addauthonticationselution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "AuthenticationApi.Infastruatuer\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T17:50:16.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T17:50:16.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20251026174621_addAuthonticationselution.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Infastruatuer\\Data\\Migrations\\20251026174621_addAuthonticationselution.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Infastruatuer\\Data\\Migrations\\20251026174621_addAuthonticationselution.cs",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "AuthenticationApi.Infastruatuer\\Data\\Migrations\\20251026174621_addAuthonticationselution.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T17:46:21.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T17:46:21.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AuthenticationApi.Presentation.csproj",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T12:23:59.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T12:23:59.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Program.cs",
@@ -123,38 +120,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AuthenticationApi.Presentation",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
               "RelativeToolTip": "AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T12:31:33.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T12:31:33.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
               "RelativeToolTip": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-26T12:27:20.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoEcommerce.AthuenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T12:23:45.499Z",
               "EditorCaption": ""
