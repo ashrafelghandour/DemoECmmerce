@@ -3,70 +3,20 @@
   "WorkspaceRootPath": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\productapi.presentaion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\productapi.presentaion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\productapi.presentaion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\productapi.presentaion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D61AEC7-A4DA-4EE0-8D16-F94EA3653C96}|ProductApiApplication\\ProductApiApplication.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapiapplication\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D61AEC7-A4DA-4EE0-8D16-F94EA3653C96}|ProductApiApplication\\ProductApiApplication.csproj|solutionrelative:productapiapplication\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A75797A0-4996-4D51-AA7A-B720641380F4}|..\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|e:\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\jwtauthscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\productapi.presentaion.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\productapi.presentaion.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.infrastructure\\dependencyinjection\\servicecontanier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\dependencyinjection\\servicecontanier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E871027-40DC-4535-90A0-E10ECD0DB1D1}|Demo.ECommerce.Product.Test\\Demo.ECommerce.Product.Test.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\demo.ecommerce.product.test\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E871027-40DC-4535-90A0-E10ECD0DB1D1}|Demo.ECommerce.Product.Test\\Demo.ECommerce.Product.Test.csproj|solutionrelative:demo.ecommerce.product.test\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D61AEC7-A4DA-4EE0-8D16-F94EA3653C96}|ProductApiApplication\\ProductApiApplication.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapiapplication\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D61AEC7-A4DA-4EE0-8D16-F94EA3653C96}|ProductApiApplication\\ProductApiApplication.csproj|solutionrelative:productapiapplication\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E871027-40DC-4535-90A0-E10ECD0DB1D1}|Demo.ECommerce.Product.Test\\Demo.ECommerce.Product.Test.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\demo.ecommerce.product.test\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E871027-40DC-4535-90A0-E10ECD0DB1D1}|Demo.ECommerce.Product.Test\\Demo.ECommerce.Product.Test.csproj|solutionrelative:demo.ecommerce.product.test\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D61AEC7-A4DA-4EE0-8D16-F94EA3653C96}|ProductApiApplication\\ProductApiApplication.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapiapplication\\dtos\\converstions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D61AEC7-A4DA-4EE0-8D16-F94EA3653C96}|ProductApiApplication\\ProductApiApplication.csproj|solutionrelative:productapiapplication\\dtos\\converstions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9B8C46-4306-4180-B18F-E9A0252FF4C6}|ProductApi.Domain\\ProductApi.Domain.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.domain\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B8C46-4306-4180-B18F-E9A0252FF4C6}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A75797A0-4996-4D51-AA7A-B720641380F4}|..\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|e:\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservececontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.infrastructure\\data\\migrations\\20251022095042_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\migrations\\20251022095042_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.infrastructure\\data\\migrations\\20251026120933_add_authentication_solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE587E3D-C7A6-4445-B696-1F540B2DDE02}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\migrations\\20251026120933_add_authentication_solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|e:\\demoecommerce.sharedlibrarysolution\\demoecommerce.productapisolution\\productapi.presentaion\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E593CB99-E2C7-412B-BF67-9679FFF3D205}|ProductApi.Presentaion\\ProductApi.Presentaion.csproj|solutionrelative:productapi.presentaion\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,8 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentaion\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductApi.Presentaion\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAMwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:29:54.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\Demo.ECommerce.Product.Test\\Controllers\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "Demo.ECommerce.Product.Test\\Controllers\\ProductControllerTest.cs",
+              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\Demo.ECommerce.Product.Test\\Controllers\\ProductControllerTest.cs",
+              "RelativeToolTip": "Demo.ECommerce.Product.Test\\Controllers\\ProductControllerTest.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAowGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:05:39.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -92,208 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductApi.Presentaion",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "RelativeToolTip": "ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T18:13:50.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20251026120933_Add_Authentication_Solution.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20251026120933_Add_Authentication_Solution.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\Migrations\\20251026120933_Add_Authentication_Solution.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20251026120933_Add_Authentication_Solution.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\Migrations\\20251026120933_Add_Authentication_Solution.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T12:09:33.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductApi.Presentaion.http",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\ProductApi.Presentaion.http",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\ProductApi.Presentaion.http",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\ProductApi.Presentaion.http",
-              "RelativeToolTip": "ProductApi.Presentaion\\ProductApi.Presentaion.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-26T10:46:56.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApiApplication\\Interfaces\\IProduct.cs",
-              "RelativeDocumentMoniker": "ProductApiApplication\\Interfaces\\IProduct.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApiApplication\\Interfaces\\IProduct.cs",
-              "RelativeToolTip": "ProductApiApplication\\Interfaces\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T11:37:34.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceContanier.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContanier.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContanier.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContanier.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContanier.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T11:36:41.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductConversion.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApiApplication\\DTOs\\Converstions\\ProductConversion.cs",
-              "RelativeDocumentMoniker": "ProductApiApplication\\DTOs\\Converstions\\ProductConversion.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApiApplication\\DTOs\\Converstions\\ProductConversion.cs",
-              "RelativeToolTip": "ProductApiApplication\\DTOs\\Converstions\\ProductConversion.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:10:09.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Products.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Products.cs",
-              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\Products.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Products.cs",
-              "RelativeToolTip": "ProductApi.Domain\\Entities\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:40:36.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductApi.Presentaion.csproj",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "RelativeToolTip": "ProductApi.Presentaion\\ProductApi.Presentaion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T19:01:27.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApiApplication\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "ProductApiApplication\\DTOs\\ProductDTO.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApiApplication\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "ProductApiApplication\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T19:00:28.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAcwBgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAtwFAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:40:45.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductApi.Presentaion\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:29:54.772Z",
+              "WhenOpened": "2025-11-02T21:48:46.332Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20251022095042_first.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20251022095042_first.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\Migrations\\20251022095042_first.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20251022095042_first.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\Migrations\\20251022095042_first.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:50:43.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JWTAuthScheme.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthScheme.cs",
-              "RelativeDocumentMoniker": "..\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthScheme.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthScheme.cs",
-              "RelativeToolTip": "..\\eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthScheme.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:47:16.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SharedServeceContainer.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServeceContainer.cs",
-              "RelativeDocumentMoniker": "..\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServeceContainer.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServeceContainer.cs",
-              "RelativeToolTip": "..\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServeceContainer.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:45:47.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\appsettings.json",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\appsettings.json",
-              "RelativeToolTip": "ProductApi.Presentaion\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T09:46:02.914Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProductApi.Presentaion\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T09:39:07.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Program.cs",
-              "RelativeDocumentMoniker": "ProductApi.Presentaion\\Program.cs",
-              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\ProductApi.Presentaion\\Program.cs",
-              "RelativeToolTip": "ProductApi.Presentaion\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\Demo.ECommerce.Product.Test\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Demo.ECommerce.Product.Test\\Repositories\\ProductRepositoryTest.cs",
+              "ToolTip": "E:\\DemoECommerce.SharedLibrarySolution\\DemoECommerce.ProductApiSolution\\Demo.ECommerce.Product.Test\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "Demo.ECommerce.Product.Test\\Repositories\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:33:00.139Z",
+              "WhenOpened": "2025-11-02T21:14:01.298Z",
               "EditorCaption": ""
             }
           ]

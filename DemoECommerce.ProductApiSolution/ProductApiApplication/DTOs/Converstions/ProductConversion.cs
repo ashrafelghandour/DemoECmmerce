@@ -2,7 +2,8 @@
 
 namespace ProductApiApplication.DTOs.ProductConverstion
 {
-    public static class ProductConversion
+  
+    public static class ProductConversion 
     {
         public static Product ToEntitiy(ProductDTO product) => new Product
         {
@@ -44,5 +45,7 @@ namespace ProductApiApplication.DTOs.ProductConverstion
                 return (null,null);
             }
         }
+
+      
     }
 }

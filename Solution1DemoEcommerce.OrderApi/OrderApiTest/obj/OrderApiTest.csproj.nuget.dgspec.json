@@ -1,0 +1,526 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApiTest\\OrderApiTest.csproj": {}
+  },
+  "projects": {
+    "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectName": "eCommerce.SharedLibrary",
+        "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "packagesPath": "C:\\Users\\COMPULAB\\.nuget\\packages\\",
+        "outputPath": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\COMPULAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Serilog.Sinks.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Sinks.console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj",
+        "projectName": "OrderApi.Application",
+        "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj",
+        "packagesPath": "C:\\Users\\COMPULAB\\.nuget\\packages\\",
+        "outputPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\COMPULAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+                "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj"
+              },
+              "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Domin\\OrderApi.Domin.csproj": {
+                "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Domin\\OrderApi.Domin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Polly.Core": {
+              "target": "Package",
+              "version": "[8.6.4, )"
+            },
+            "Polly.Extensions": {
+              "target": "Package",
+              "version": "[8.6.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Domin\\OrderApi.Domin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Domin\\OrderApi.Domin.csproj",
+        "projectName": "OrderApi.Domin",
+        "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Domin\\OrderApi.Domin.csproj",
+        "packagesPath": "C:\\Users\\COMPULAB\\.nuget\\packages\\",
+        "outputPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Domin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\COMPULAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj",
+        "projectName": "OrderApi.Infrastructure",
+        "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\COMPULAB\\.nuget\\packages\\",
+        "outputPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\COMPULAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj": {
+                "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\OrderApi.Perisntation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\OrderApi.Perisntation.csproj",
+        "projectName": "OrderApi.Perisntation",
+        "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\OrderApi.Perisntation.csproj",
+        "packagesPath": "C:\\Users\\COMPULAB\\.nuget\\packages\\",
+        "outputPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\COMPULAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj": {
+                "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Infastructure\\OrderApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApiTest\\OrderApiTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApiTest\\OrderApiTest.csproj",
+        "projectName": "OrderApiTest",
+        "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApiTest\\OrderApiTest.csproj",
+        "packagesPath": "C:\\Users\\COMPULAB\\.nuget\\packages\\",
+        "outputPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApiTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\COMPULAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\OrderApi.Perisntation.csproj": {
+                "projectPath": "E:\\DemoECommerce.SharedLibrarySolution\\Solution1DemoEcommerce.OrderApi\\OrderApi.Perisntation\\OrderApi.Perisntation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -13,7 +13,7 @@ namespace OrderApi.Infrastructure.Repositories
 {
     public class OrderRepository(OrderDbContext orderDb) : IOrder
     {
-        public async Task<Response> CteateAsync(Order entity)
+        public async Task<Response> CteateAsync(Domin.Entites.Order entity)
         {
             try
             {
@@ -30,7 +30,7 @@ namespace OrderApi.Infrastructure.Repositories
             }
         }
 
-        public async Task<Response> DeleteAsync(Order entity)
+        public async Task<Response> DeleteAsync(Domin.Entites.Order entity)
         {
             try
             {
@@ -59,7 +59,7 @@ namespace OrderApi.Infrastructure.Repositories
             }
         }
 
-        public async Task<Order> FindByIdAsync(int id)
+        public async Task<Domin.Entites.Order> FindByIdAsync(int id)
         {
             try
             {
@@ -94,7 +94,7 @@ namespace OrderApi.Infrastructure.Repositories
             }
         }
 
-        public async Task<Order> GetByAsync(Expression<Func<Order, bool>> predicate)
+        public async Task<Domin.Entites.Order> GetByAsync(Expression<Func<Domin.Entites.Order, bool>> predicate)
         {
             try
             {
@@ -115,7 +115,7 @@ namespace OrderApi.Infrastructure.Repositories
 
         
 
-        public async Task<IEnumerable<Order>> GetOrdersAsync(Expression<Func<Order, bool>> predicate)
+        public async Task<IEnumerable<Domin.Entites.Order>> GetOrdersAsync(Expression<Func<Domin.Entites.Order, bool>> predicate)
         {
             try
             {
@@ -132,7 +132,7 @@ namespace OrderApi.Infrastructure.Repositories
             }
         }
 
-        public async Task<IEnumerable<Order>> GetOrdersByCleintIdAsync(int id)
+        public async Task<IEnumerable<Domin.Entites.Order>> GetOrdersByCleintIdAsync(int id)
         {
             try
             {
@@ -150,7 +150,7 @@ namespace OrderApi.Infrastructure.Repositories
         }
 
 
-        public async Task<Response> UpdateAsync(Order entity)
+        public async Task<Response> UpdateAsync(Domin.Entites.Order entity)
         {
             try
             {

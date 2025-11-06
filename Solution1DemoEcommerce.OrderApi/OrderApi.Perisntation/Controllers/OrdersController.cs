@@ -1,5 +1,6 @@
 ﻿using eCommerce.SharedLibrary;
 using eCommerce.SharedLibrary.Responses;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using OrderApi.Application.Conversrions;
 using OrderApi.Application.DTO;
@@ -11,6 +12,7 @@ namespace OrderApi.Perisntation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class OrdersController(IOrder order , IOrderService orderService) : Controller
     {
         [HttpGet]
@@ -101,7 +103,8 @@ namespace OrderApi.Perisntation.Controllers
             if (clinetid < 1) return BadRequest("Invalid data provided");
 
             var ordr = order.GetAllAsync().Result.Where(o=>o.ClientId == clinetid);
-            return ordr is not null ? Ok(ordr) : NotFound(ordr);
+            var dto = OrderConversion.FromEntity(null, ordr).Item2;
+            return ordr is not null ? Ok(dto) : NotFound(dto);
 
 
 
@@ -113,9 +116,12 @@ namespace OrderApi.Perisntation.Controllers
                 if (orderid < 1) return BadRequest("Invalid data provided");
 
                 var details = await orderService.GetOrderDetailsByOrderId(orderid);
-                return details.OrderID > 0 ? Ok(details) : NotFound("Not order founf");
-           
-            
+          
+
+
+            return  details.OrderID <= 0 ? NotFound("Not order founf") : Ok(details);
+
+
         }
 
 

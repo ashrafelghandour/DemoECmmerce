@@ -55,7 +55,7 @@ namespace ProductApi.Infrastructure.Repositories
             try
             {
 
-                var product = await db.products.FindAsync(entity);
+                var product = await db.products.FindAsync(entity.Id);
 
                 if (product is null)
                     return new Response(false, $"this product is not Exesit{entity.Name}");

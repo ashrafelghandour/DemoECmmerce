@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApi.Perisntation", "OrderApi.Perisntation\OrderApi.Perisntation.csproj", "{9F8C3F74-B032-452C-A222-36FFF0EE66EC}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApi.Infrastructure", "OrderApi.Infastructure\OrderApi.Infrastructure.csproj", "{82683B28-8842-4830-B8A3-43D29809F0D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerce.SharedLibrary", "..\eCommerce.SharedLibrary\eCommerce.SharedLibrary.csproj", "{35E62A00-AE9E-4406-9F14-C76722C25A50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{D8BB8FEA-69B9-46BE-9DD6-6771DC995C88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{AC90572C-A698-4C75-AE2D-7E74554A27A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApiTest", "OrderApiTest\OrderApiTest.csproj", "{463F1CFD-C0DE-4EFC-B735-EB5B6E5DE5A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +45,20 @@ Global
 		{35E62A00-AE9E-4406-9F14-C76722C25A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35E62A00-AE9E-4406-9F14-C76722C25A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35E62A00-AE9E-4406-9F14-C76722C25A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463F1CFD-C0DE-4EFC-B735-EB5B6E5DE5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463F1CFD-C0DE-4EFC-B735-EB5B6E5DE5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463F1CFD-C0DE-4EFC-B735-EB5B6E5DE5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463F1CFD-C0DE-4EFC-B735-EB5B6E5DE5A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F8C3F74-B032-452C-A222-36FFF0EE66EC} = {D8BB8FEA-69B9-46BE-9DD6-6771DC995C88}
+		{15ED90F8-C673-4137-B818-CDECD2C810E2} = {D8BB8FEA-69B9-46BE-9DD6-6771DC995C88}
+		{DC9DDC81-24D5-4529-A035-250678C737A4} = {D8BB8FEA-69B9-46BE-9DD6-6771DC995C88}
+		{82683B28-8842-4830-B8A3-43D29809F0D7} = {D8BB8FEA-69B9-46BE-9DD6-6771DC995C88}
+		{35E62A00-AE9E-4406-9F14-C76722C25A50} = {D8BB8FEA-69B9-46BE-9DD6-6771DC995C88}
+		{463F1CFD-C0DE-4EFC-B735-EB5B6E5DE5A4} = {AC90572C-A698-4C75-AE2D-7E74554A27A0}
 	EndGlobalSection
 EndGlobal

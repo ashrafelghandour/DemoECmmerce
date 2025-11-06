@@ -1,7 +1,6 @@
 ﻿using Azure;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using ProductApi.Infrastructure.Repositories;
 using ProductApiApplication.DTOs;
 using ProductApiApplication.DTOs.ProductConverstion;
 using ProductApiApplication.Interfaces;
@@ -10,6 +9,7 @@ namespace ProductApi.Presentaion.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class ProductsController(IProduct product) : ControllerBase
     {
         [HttpGet]
@@ -23,7 +23,7 @@ namespace ProductApi.Presentaion.Controllers
             
             //convert data from entity to DTo
             var (_, list) = ProductConversion.FromEintity(null, products);
-            return list!.Any() ? Ok(products) : NotFound("Not found Products");
+            return list!.Any() ? Ok(list) : NotFound("Not found Products");
         }
         [HttpGet("{id:int}")]
         public async Task<ActionResult<ProductDTO>> GetProduct(int id)
@@ -41,6 +41,7 @@ namespace ProductApi.Presentaion.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles ="Admin")]
         public async Task<ActionResult<Response>> CreateProduct(ProductDTO productDTO)
         {
 
@@ -55,6 +56,7 @@ namespace ProductApi.Presentaion.Controllers
             return response.Flag is true ? Ok(response) : BadRequest(response);
         }
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> UpdateProduct(ProductDTO dTO)
         {
             //check model state is all data annotations is machs
@@ -67,6 +69,7 @@ namespace ProductApi.Presentaion.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<Response>> DeleteProduct(ProductDTO dTO)
         {
             //check model state is all data annotations is machs
@@ -76,7 +79,7 @@ namespace ProductApi.Presentaion.Controllers
             var pro = ProductConversion.ToEntitiy(dTO);
 
             var response = await product.DeleteAsync(pro);
-            return response.Flag is true ? Ok(response) : BadRequest(dTO);
+            return response.Flag is true ? Ok(response) : BadRequest(response);
         }
 
 

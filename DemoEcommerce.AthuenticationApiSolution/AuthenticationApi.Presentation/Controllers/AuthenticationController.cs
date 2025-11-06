@@ -1,6 +1,7 @@
 ﻿using AuthenticationApi.Application.DTO;
 using AuthenticationApi.Application.Interfaces;
 using Azure;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace AuthenticationApi.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class AuthenticationController(IUser user) : ControllerBase
     {
         [HttpPost("register")]
@@ -29,6 +31,7 @@ namespace AuthenticationApi.Presentation.Controllers
         }
 
         [HttpGet("{id:int}")]
+        [Authorize]
         public async Task<ActionResult<GetUserDTO>> GetUser(int id)
         {
            if(id < 1)return BadRequest("invalid user id");

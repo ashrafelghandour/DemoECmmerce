@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderApi.Perisntation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+398c98414e1868b1d6dc37653ec732d7fa0e4c4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac71561510d68f69e02afe9f0b2f1e2ae09c43d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderApi.Perisntation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderApi.Perisntation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

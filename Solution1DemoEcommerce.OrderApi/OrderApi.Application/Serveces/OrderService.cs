@@ -28,7 +28,7 @@ namespace OrderApi.Application.Serveces
         public async Task<AppUserDTO> GetUser(int Userid)
         {
             //call product Api using httpClint
-            var result = await httpclient.GetAsync($"https://localhost:22628/api/Authentication/{Userid}");
+            var result = await httpclient.GetAsync($"api/Authentication/{Userid}");
 
             if (!result.IsSuccessStatusCode)
                 return null!;
